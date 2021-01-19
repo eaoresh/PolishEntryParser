@@ -1,3 +1,5 @@
+//Aleksander Chernov
+
 #pragma once
 
 // opaque structure for poliz calculation state
